@@ -1,0 +1,23 @@
+Cada variable tiene una direccion de memoria. 
+Siempre va a mostrar primero el resultado de la funcion en si.
+Break point: punto de quiebre, punto rojo al borde (ejecutar hasta sierto punto).
+Siempre va a tener prioridad la variable local.(No usar variable global)
+
+Biblioteca: <stdio.h> para el printf y scanf.
+
+
+Crear biblioteca: 
+1) Crear archivo en blanco.
+2) Crear un .h .
+3) En el .h incluir los prototipos de las funciones.
+4) En el .c incluir la funcion en si entre comillas dobles "".
+5) include <.h> añadir la biblioteca en el .c.
+6) el <stdio.h> moverlo a biblioteca creada en formato .h .
+
+
+Como documentar el codigo:
+\brief(contar brevemente que hace la funcion)
+
+Para la semana que viene tener una biblioteca que permita tomar enteros (char,float,int).
+
+

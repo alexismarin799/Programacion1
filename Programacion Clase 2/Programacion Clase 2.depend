@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567187345 source:d:\marin alexis\programacion clase 2\main.c
+	<stdlib.h>
+	"Aritmeticas.h"
+
+1567187289 source:d:\marin alexis\programacion clase 2\aritmeticas.c
+	"Aritmeticas.h"
+
+1567186619 d:\marin alexis\programacion clase 2\aritmeticas.h
+	<stdio.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1566573906 source:d:\marin alexis\programacion 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<ctype.h>
+
