@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567793897 source:d:\marin alexis\cadenas de caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

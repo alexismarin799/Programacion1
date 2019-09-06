@@ -1,0 +1,19 @@
+Cadenas de Caracteres
+
+Se realiza con "char", hay que tener en cuenta que siempre se guarda un caracter menos de lo que le asignamos al vector.
+\0 para finlaizar un cadena, es un caracter en especifico para finalizar cadenas de caracteres.
+El scanf en este caso exclusivo no se le debe poner el andpersan (&), porque el scanf ya sabe que esta por guardar una cadena de 
+caracteres.
+El scanf interpreta el espacio como un enter.
+
+gets(recibe la direccion de memoria donde guarda el string).
+Todas las variables para manejo de cadenas inician con el abreviado "str".
+
+strcmp para comparar dos char.
+La comparacion puede dar 1 o -1.
+strupr(combierte todo a mayuscula)
+strlwr ( combierte todo a minuscula)
+stricmp(ignora las mayusculas y minusculas)
+strcpy(copia variantes)
+strcmp(compara las variantes si son iguales o no)
+strlen(devuelve la cantidad de caracteres que se ingresa en una cadena)
