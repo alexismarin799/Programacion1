@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568387753 source:d:\alexis marin\programacion clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnos.h"
+
+1568387414 source:d:\alexis marin\programacion clase 4\alumnos.c
+	"Alumnos.h"
+
+1568387390 d:\alexis marin\programacion clase 4\alumnos.h
+	<stdio.h>
+	<string.h>
+

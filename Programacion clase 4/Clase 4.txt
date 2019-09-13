@@ -1,0 +1,42 @@
+La asignacion es destructiva (una variable pisa a la otra).				PARCIAL: PROGRAMACION 4/10 y LABORATORIO: 3/10 y 10/10
+En el ordenamiento el if() representa el criterio de ordenamiento.
+ORDENAMIENTO == BURBUJEO 
+
+Ejemplo con distintos tipos de datos:						VALOR pasa a la funcion una COPIA DEL VALOR
+										REFERENCIA paso una direcccion de MEMORIA.
+									scanf("%[^\n]", int); para ordenar que lea todo de largo hasta los espacios 
+void(int[], float[], char[]...)	
+int i;
+int j;
+int auxInt;
+float auxFloat;
+char auxChar;
+
+for(i=0; i<cant-1; i++)
+{
+	for(j=i+1; j<cant; j++)
+		{
+			if(promedio[i]<promedio[j])
+			{
+				auxFloat = promedio[i];
+				promedio[i] = promedio[j];
+				promedio[j] = auxFloat;
+			}
+		}
+}
+
+
+
+ESTRUCTURAS:
+typedef struct //define la estructura FUERA del main,
+{
+    //se define los campos o atributos
+    
+}sAlumno;   //darle nombre (si se puede que empieze con s) y se termina con ; 
+
+
+Mostrar el peso den bytes del tipo de dato sizeof(miAlumno).
+
+
+Funcion que carga elementos neceito pasar el array.
+Un vector se pasa por referencia.
