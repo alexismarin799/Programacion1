@@ -11,3 +11,15 @@
 	<stdio.h>
 	<string.h>
 
+1568993359 source:d:\alexis marin\programacion1\programacion clase 4\alumnos.c
+	"Alumnos.h"
+
+1568991526 d:\alexis marin\programacion1\programacion clase 4\alumnos.h
+	<stdio.h>
+	<string.h>
+
+1568993331 source:d:\alexis marin\programacion1\programacion clase 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnos.h"
+
