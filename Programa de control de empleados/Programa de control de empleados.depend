@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570222258 source:c:\users\alexis\documents\programa de control de empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1570225396 c:\users\alexis\documents\programa de control de empleados\arrayemployees.h
+	<stdio.h>
+	<string.h>
+
+1570225445 source:c:\users\alexis\documents\programa de control de empleados\arrayemployees.c
+	"ArrayEmployees.h"
+
