@@ -1,0 +1,36 @@
+PUNTEROS
+--------
+El vector es un puntero.n
+
+Guarda la direccion de memoria en otra variable.
+El puntero debe saber a que tipo de dato va a apuntar.
+Direccion de memoria de una variable (&).
+
+EJEMPLO:
+
+     int unEntero = 10;
+     int* puntero;
+
+     puntero =  &unEntero; SIEMPRE ASIGNAR IMPORTANTE
+    
+     puntero = &unEntero;
+
+     return 0;
+
+(* operador de inacceso.)
+(& operador de direccion.)
+(=> operador de acceso.)
+
+MOSTRAR
+printf("El numero es : %d\n", *puntero);
+
+No se trata de puntero a puntero.
+
+Siempre es en funcion al sistema operativo la cantidad de bytes.
+
+PEDIR ESPACIO EN MEMORIA
+sizeof(int); (cuanto pesa el tipo de dato). Se mueven punteros, no se mueven datos.
+
+TRABAJAMOS CON ARITMETICA DE PUNTEROS IMPORTANTE!!
+
+Cunado pasamos la direccion de memoria de un vector no es necesario el ampersan.
